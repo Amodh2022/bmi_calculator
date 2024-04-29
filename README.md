@@ -1,4 +1,4 @@
-<img src="./assets/screenshots/Flutter%20BMI.png" width="100%">
+
 
 # BMI Calculator App
 
